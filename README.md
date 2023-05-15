@@ -5,8 +5,10 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+create an new HTML file and write the html code for the Cover page.
 ### Step 2:
+Access the url of the html and check the cover page.
+
 
 ## Code:
 ```
